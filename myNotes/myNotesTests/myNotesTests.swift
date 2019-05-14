@@ -2,7 +2,7 @@
 //  myNotesTests.swift
 //  myNotesTests
 //
-//  Created by Илья on 5/14/19.
+//  Created by Ilya Kangin on 5/11/19.
 //  Copyright © 2019 Ilya Kangin. All rights reserved.
 //
 
